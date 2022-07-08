@@ -18,7 +18,7 @@
  ### order_channel : Alışveriş yapılan platforma ait hangi kanalın kullanıldığı (Android, ios, Desktop, Mobile, Offline)
  ### last_order_channel : En son alışverişin yapıldığı kanal
  ### first_order_date : Müşterinin yaptığı ilk alışveriş tarii
-  İ### last_order_date : Müşterinin yaptığı son alışveriş tarih### i
+ ### last_order_date : Müşterinin yaptığı son alışveriş tarihi
  ### last_order_date_online : Muşterinin online platformda yaptığı son alışveriş tarihi
  ### last_order_date_offline : Muşterinin offline platformda yaptığı son alışveriş tarihi
  ### order_num_total_ever_online : Müşterinin online platformda yaptığı toplam alışveriş sayısı
